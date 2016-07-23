@@ -14,9 +14,11 @@ Shachar Oz
 
 # Thanks to:
 [Github pages](https://pages.github.com/)
+
 [SourceTree](https://www.sourcetreeapp.com/)
 
 [Start Bootstrap](http://startbootstrap.com/)
+
 [Agency](http://startbootstrap.com/template-overviews/agency/)
 
 [Brackets](http://brackets.io/)
