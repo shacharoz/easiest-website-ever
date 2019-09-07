@@ -1,5 +1,5 @@
 # Easiest Website Ever
-Read full step by step instructions at the [full article](http://ar-ui.blogspot.com/2016/08/easiest-website-ever.html). 
+Read full step by step instructions at the [full article](http://shacharoz.github.io/easiest-website-ever/). 
 
 
 # Goal
